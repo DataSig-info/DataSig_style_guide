@@ -1,0 +1,28 @@
+
+
+axes.titlesize: 24
+axes.labelsize: 20
+lines.linewidth: 1.5
+lines.markersize: 10
+xtick.labelsize: 12
+ytick.labelsize: 12
+
+
+text.color: 0A1446
+axes.facecolor: F1EEE6
+axes.edgecolor: 0A1446
+axes.labelcolor: 0A1446
+
+xtick.color: 0A1446
+xtick.labelcolor: 0A1446
+ytick.color: 0A1446
+ytick.labelcolor: 0A1446
+grid.color: 0A1446
+
+legend.facecolor: inherit
+legend.edgecolor: 0A1446
+
+
+figure.facecolor: F1EEE6
+figure.edgecolor: 0A1446
+
